@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uaxeesho.dayswithoutprince.com/sitemap.xml
